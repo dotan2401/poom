@@ -1,2 +1,2 @@
 # poom
-my repo
+my repo poom
