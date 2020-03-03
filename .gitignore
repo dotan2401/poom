@@ -4,6 +4,7 @@ _ReSharper.*
 bin
 obj
 *.log
+*.docx
 *.dep
 *.user
 Debug
