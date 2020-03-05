@@ -5,7 +5,3 @@ Apple pie:
 - yes tea 
 - Yes more ingridents
 - more and more
-- master
-- more master
-- x
-- yes
